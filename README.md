@@ -9,3 +9,6 @@ Base project:
 
 Download his PSD from here:
 [Web Template PSD](https://dribbble.com/shots/1462032-Web-Template-giveaway)
+
+Project Preview:
+![alt text](https://d13yacurqjgara.cloudfront.net/users/95883/screenshots/1462032/template_1x.png "Project Preview")
