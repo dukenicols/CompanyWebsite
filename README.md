@@ -1,15 +1,11 @@
-# Front-End-Kit-Inicio
+# Company Website
 
-Kit de Inicio para comenzar a trabajar en proyectos Front-End
+Front-End Work from PSD to HTML.
 
-Utiliza:
-Express + Gulp + Sass + Bourbon
+Here is a clean and modern website template. Free PSD designed and released by [Chirag D. – uijunction](https://dribbble.com/chiragdave).
 
-Servidor Express configurado en puerto 4000
-Gulp
-Livereload - No browser plugin required
-Sass -> extension .sass ---> Yes! No brackets! (:
+Base project:
+[Kit-Inicio-Front-End](https://github.com/dukenicols/Front-End-Kit-Inicio)
 
-1 Iniciar
-  1 npm install
-  2 gulp
+Download his PSD from here:
+[Web Template PSD](https://dribbble.com/shots/1462032-Web-Template-giveaway)
